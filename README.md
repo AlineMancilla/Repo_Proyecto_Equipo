@@ -1,2 +1,2 @@
 # Repo_Proyecto_Equipo
-hola testeando
+¡Bienvenidos a nuestro Repo!
