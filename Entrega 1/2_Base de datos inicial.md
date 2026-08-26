@@ -8,3 +8,5 @@ El [índice de Calidad de Vida Urbana (ICVU) 2025](https://estudiosurbanos.uc.cl
 **Pertinencia:** Nos entrega precisamente la información que necesitamos para establecer qué elementos pueden ser considerados dentro de la calidad de vida de las personas, y nos entregan índices comparativos por comunas de la Región metropolitana, necesarios para realizar el contraste que queremos exponer. 
 
 **Metodología:** El ICVU muestra a través de gráficos las diferencias comparativas de las dimensiones de calidad de vida antes mencionadas, me gustaría simplificar esos gráficos e ir dimensión por dimensión registrando la comuna de la Región Metropolitana con mayor índice y la de menor índice en las respectivas áreas agregando los promedios que da el informe. 
+
+[**Archivo  excel con las columnas y variables que tendrá**](https://uccl0-my.sharepoint.com/:x:/g/personal/aline_mancilla_uc_cl/IQAIyGj__msqTak68SdB6yDxAW57qwLGVjYkXTo0UKM0_4s?e=EciVr3) 
