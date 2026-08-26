@@ -3,7 +3,7 @@ EL [índice de Calidad de Vida Urbana (ICVU) 2025](https://estudiosurbanos.uc.cl
 
 **Autor y publicación de los datos:** Núcleo de Investigación sobre Gobernanza y Ordenamiento Territorial (NUGOT), del Instituto de Estudios Urbanos y Territoriales (IEUT) de la Pontificia Universidad Católica de Chile, y la Gerencia de Estudios y Políticas Públicas de la Cámara Chilena de la Construcción (CChC) y Arturo Orellana (Editor) 
 
-**Contenido:** 
+**Contenido:** El contenido de la base serían los resultados de indicadores con respecto a los ejes que en el documento se tratan: cantidad de habitantes en comunas que corresponde a un nivel alto, bajo o intermedio en ICVU (donde, gracias al documento, se puede incluir si en 10 años han aumentado, mantenido o disminuido su ICVU). Incluiría también el promedio de las brechas entre comunas en tres dimensiones de la ICVU. 
 
 **Pertinencia:** Nos entrega precisamente la información que necesitamos para establecer qué elementos pueden ser considerados dentro de la calidad de vida de las personas, y nos entregan índices comparativos por comunas de la Región metropolitana, necesarios para realizar el contraste que queremos exponer. 
 
