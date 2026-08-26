@@ -1,2 +1,2 @@
-# hola buenas 
-funciona pls
+### ¿Qué espero contar del tema? 
+Espero contar desde un impacto visual los hechos y las situaciones en las que se vive la desigualdad en las comunas de Santiago de forma que aporte a que se deje de vivir como una realidad integrada y una mirada pasiva, sino que sirva de instrumento para dar cuenta de la injusticia que se vive en el país. Porque si bien esta historia solo estaría centrada en el Gran Santiago (principalmente por la cantidad de datos que implicaría hacer una historia de todas las comunas de Chile), la capital es solo un “ecosistema” que se vive a nivel país. 
