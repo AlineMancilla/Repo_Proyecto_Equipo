@@ -1,0 +1,4 @@
+### Síntesis del proyecto
+En Chile las diferencias socioeconómicas según sectores demográficos aún se hacen evidentes -vivir en la Dehesa es muy distinto a vivir en Puente Alto- esta noción está muy insertada en nuestra sociedad, mientras más “arriba” estes en la capital más nivel socioeconómico. Pero ¿cómo se reflejan estás diferencias en la vida de las personas?, más allá del estatus quo ¿qué tan distinta es la calidad de vida de las comunas de “arriba” con las de “abajo”? 
+
+Para lograr responder estas preguntas es que, a través de datos, queremos comparar la calidad de vida (entiéndase esta como compuesta por distintos factores: conectividad y movilidad, vivienda y entorno, condiciones laborales, ambiente de negocios, salud y medioambiente, condiciones socioculturales) de la comuna más rica de la capital versus la comuna más pobre. 
