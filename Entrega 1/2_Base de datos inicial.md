@@ -23,6 +23,6 @@ El **Instituto Nacional de Estadísticas (INE)** elaboró en 2019 el estudio *In
 
 **Metodología:** Los datos fueron levantados por el INE durante 2019 mediante la evaluación de plazas y parques urbanos a partir de una pauta estandarizada. Se registraron las características físicas, de equipamiento, accesibilidad, seguridad, vegetación y mantención de cada espacio. A partir de estas variables se establecieron indicadores y un rango de calidad para las plazas y parques evaluados. 
 
-**Archivo Excel con la base de datos utilizada:** [Indicadores de calidad de plazas y parques urbanos en Chile 2019 – INE] (https://uccl0-my.sharepoint.com/:x:/g/personal/dcantillana_estudiante_uc_cl/IQDeeUWRWglJS4RnxUiirbKbATAnid3iYUIC2e7yVs2bFpU?e=hgsZa9)
+**Archivo Excel con la base de datos utilizada:** (https://uccl0-my.sharepoint.com/:x:/g/personal/dcantillana_estudiante_uc_cl/IQDeeUWRWglJS4RnxUiirbKbATAnid3iYUIC2e7yVs2bFpU?e=hgsZa9)
 
 **Fuente original:** [Instituto Nacional de Estadísticas (INE)](https://www.ine.gob.cl/)
