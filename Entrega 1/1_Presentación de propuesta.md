@@ -68,3 +68,15 @@ Algunos de los datos que tienen que ver con la urbanización de las comunas son 
 ***¿Qué datos son confiables y cuáles no?:*** 
 
 En la comparación serán utilizados datos provenientes de estudios académicos y organismos especializados, es posible confiar en ellos porque permiten verificar el origen de la información como la metodología utilizada para obtenerla. Será considerada también la antigüedad de los datos, priorizando aquellos que permitan representar de la manera más actualizada la realidad de las comunas. Son no confiables los datos cuya fuente, metodología o fecha a de obtención no puedan ser verificados. 
+
+### Preguntas a responder: 
+
+* ¿Cuáles son las preguntas que se pueden responder con los datos? 
+* ¿a qué distancia se encuentran las personas de una plaza o un área verde? 
+* ¿qué tan accesible es la locomoción colectiva? 
+* ¿a qué distancia se encuentras las personas de su lugar de trabajo? 
+* ¿cuánto es el tiempo de traslado desde el hogar hasta el lugar de trabajo? 
+* ¿a qué distancia se encuentra el centro asistencial de salud más cercano? 
+* ¿cuánto ingreso mensual promedio tienen las personas? 
+* ¿cuánto gasto mensual promedio tienen las personas? 
+* ¿existe un nivel drástico de desigualdad entre las comunas? 
