@@ -47,24 +47,24 @@ Gran Santiago recupera superficie de áreas verdes de hace dos décadas, pero pe
 https://portal.nexnews.cl/showN?valor=56jrvb  
 
 ***Datos***
-¿Qué datos necesitamos para probar nuestra hipótesis?: 
+***¿Qué datos necesitamos para probar nuestra hipótesis?:*** 
 
 Primero debemos acotar los elementos medibles que vamos a establecer, los que influyen en la calidad de vida de las personas, donde quizá nos encontremos que tengamos que dejar de lado los temas emocionales, ya que son difíciles de cuantificar. En ese sentido nos tendremos que enfocar en los bienes materiales (monetarios, vivienda, vehículos, etc), de salud (accesibilidad a centros asistenciales) y del entorno social (urbanidad, trasporte, áreas verdes). Ejes respaldados por la ONU. 
 
 Para eso necesitaremos índices, porcentajes, registros de municipalidades o estudias con respecto a esta materia para llegar a una comparación y eventualmente a una respuesta a nuestra hipótesis. 
 
-¿Qué datos tenemos y qué datos necesitamos conseguir aún?: 
+***¿Qué datos tenemos y qué datos necesitamos conseguir aún?:*** 
 
 A partir de algunos materiales revisados (reportajes, investigaciones, páginas web) con respecto a las comunas de Santiago tenemos: porcentajes de desigualdades de áreas verdes, porcentajes de cercanía a equipamientos urbanos (como farmacias, librerías, centros asistenciales de salud), tiempo de viaje en transporte promedio al trabajo por comuna.
 
-¿Qué datos no existen y cómo los obtendremos?: 
+***¿Qué datos no existen y cómo los obtendremos?:*** 
 
 No existen los índices de felicidad de las personas. Pero, como mencionamos anteriormente este aspecto emocional lo dejaremos de lado ya que no es cuantificable a un nivel comunal.
 
-¿Qué datos son públicos y cuáles no?: 
+***¿Qué datos son públicos y cuáles no?:*** 
 
 Algunos de los datos que tienen que ver con la urbanización de las comunas son dados por los mismos municipios. Los estudios y documentos que utilizaremos nos entregan índices, más no información detallada sobre las personas que habitan las comunas. 
 
-¿Qué datos son confiables y cuáles no?: 
+***¿Qué datos son confiables y cuáles no?:*** 
 
 En la comparación serán utilizados datos provenientes de estudios académicos y organismos especializados, es posible confiar en ellos porque permiten verificar el origen de la información como la metodología utilizada para obtenerla. Será considerada también la antigüedad de los datos, priorizando aquellos que permitan representar de la manera más actualizada la realidad de las comunas. Son no confiables los datos cuya fuente, metodología o fecha a de obtención no puedan ser verificados. 
