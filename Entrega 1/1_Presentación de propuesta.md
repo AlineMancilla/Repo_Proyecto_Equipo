@@ -7,10 +7,10 @@ Para lograr responder estas preguntas es que, a través de datos, queremos compa
 
 Los datos utilizados provienen de investigaciones, reportajes e informes relacionados a la calidad de vida de los habitantes de la región metropolitana. Cada fuente será utilizada según la dimensión que permita analizar, con el objetivo de construir una comparación entre las comunas de mayores y menores ingresos. Los datos no solo se limitan a una medición de calidad de vida, y aunque permitirán observar diferencias entre ambos grupos desde distintas variables. 035
 
-***Pregunta de investigación (~ hipótesis):*** 
+### Pregunta de investigación (~ hipótesis): 
 Queremos ilustrar los niveles de desigualdad que persiste en las comunas de la Región Metropolitana, en un momento donde la agenda económica parece estar más vigente que nunca, pero sin efectos, beneficios o planes evidentes para la población más vulnerable. 
 
-***Antecedentes del tema:*** 
+### Antecedentes del tema: 
 Existen reportajes e investigaciones sobre esta temática, y que van ligados al tipo de dato que queremos exponer, como lo son las condiciones urbanas de las comunas de Santigo (como las áreas verdes), el acceso al transporte público; tanto en cercanía como en costos. 
 
 Este tipo de material refuerzan lo que nosotras ya creemos: la desigualdad en la calidad de vida entre las comunas de la Región Metropolitana es alta. De acuerdo con los resultados de estos estudios e investigaciones, es correcto apuntar a que existe una brecha entre comunas y un aumento en el deterioro en la calidad de vida, explicado principalmente por la variable de transporte. 
