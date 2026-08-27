@@ -80,3 +80,26 @@ En la comparación serán utilizados datos provenientes de estudios académicos 
 * ¿cuánto ingreso mensual promedio tienen las personas? 
 * ¿cuánto gasto mensual promedio tienen las personas? 
 * ¿existe un nivel drástico de desigualdad entre las comunas? 
+
+### Historia visual
+***¿Cuál es la historia de nuestro proyecto de investigación? ¿Qué es lo nuevo?*** 
+
+La novedad que queremos proponer dista de lo obvio: probar que hay desigualdades entre comunas. Todos saben eso, aunque no tengan el dato exacto del nivel de desigualdad con el que vivimos. Lo que queremos hacer con nuestra historia web, es que ese saber colectivo se vea en datos e información nítida donde el usuario dé cuenta que las desigualdades van un poco más allá de lo económico y como estas afectan a su calidad de vida. 
+
+***¿Qué tipo de elementos digitales nos gustaría tener? ¿Cómo esos elementos ayudarán a contar nuestra historia?***  
+
+***Gráficos*** (donde se comparen los porcentajes de las distintas categorías antes establecidas, de forma que la información entre de una forma visual más potente que solo leer el número) Por ejemplo:
+
+# INSERTE FOTO
+
+Cambiar “not from tiktok” a “áreas verdes en la comuna x” y “from tiktok” a “áreas verdes en la comuna x” 
+
+***Mapas:*** Incorporaremos mapas para representar especialmente las diferencias entre comunas y que se logren responder de manera grafica las preguntas relacionadas a distancia. Esto permitirá visualizar que tan cerca o lejos se encuentran los habitantes de determinados servicios o espacios, y cómo estas distancias y sus respectivos tiempos de traslado asociados varían entre las comunas de mayores y menores ingresos.
+
+### Resultados
+
+***¿Qué es lo mínimo que se puede contar como historia con los datos que tenemos? ¿Qué es lo máximo?*** 
+
+Lo mínimo que podemos contar son algunas categorías dentro de lo que se considera afecta a la calidad de vida de una persona a nivel comunal, y contrastar esos datos para generar un tipo de información que denuncien la situación que estamos observando. 
+
+Nuestro límite, o nuestro máximo, es que no podemos explorar todos los factores incidentes en la calidad de vida de las personas, por lo que quedarían aspectos incompletos, como lo es el nivel emocional como lo mencionamos más arriba. 
