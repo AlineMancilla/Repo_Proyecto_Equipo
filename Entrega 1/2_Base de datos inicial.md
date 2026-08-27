@@ -11,7 +11,7 @@ El [índice de Calidad de Vida Urbana (ICVU) 2025](https://estudiosurbanos.uc.cl
 
 [**Archivo  excel con las columnas y variables que tendrá**](https://uccl0-my.sharepoint.com/:x:/g/personal/aline_mancilla_uc_cl/IQAIyGj__msqTak68SdB6yDxAW57qwLGVjYkXTo0UKM0_4s?e=EciVr3) 
 
-### 2) Base de datos de inscripción xxx
+### 2) Base de datos existente
 
 El **Instituto Nacional de Estadísticas (INE)** elaboró en 2019 el estudio *Indicadores de calidad de plazas y parques urbanos en Chile*, que permite analizar distintos espacios públicos del país. La base de datos registra información sobre el equipamiento, accesibilidad, seguridad, vegetación y mantención de plazas y parques urbanos, además de asignar un rango de calidad a cada espacio evaluado. Para esta investigación se utilizará exclusivamente la información correspondiente a la **Región Metropolitana**, con el objetivo de comparar las condiciones de las plazas y parques de las comunas seleccionadas.
 
