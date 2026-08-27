@@ -46,7 +46,7 @@ Gran Santiago recupera superficie de áreas verdes de hace dos décadas, pero pe
 
 https://portal.nexnews.cl/showN?valor=56jrvb  
 
-***Datos***
+### Datos
 ***¿Qué datos necesitamos para probar nuestra hipótesis?:*** 
 
 Primero debemos acotar los elementos medibles que vamos a establecer, los que influyen en la calidad de vida de las personas, donde quizá nos encontremos que tengamos que dejar de lado los temas emocionales, ya que son difíciles de cuantificar. En ese sentido nos tendremos que enfocar en los bienes materiales (monetarios, vivienda, vehículos, etc), de salud (accesibilidad a centros asistenciales) y del entorno social (urbanidad, trasporte, áreas verdes). Ejes respaldados por la ONU. 
