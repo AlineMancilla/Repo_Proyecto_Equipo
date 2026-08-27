@@ -22,7 +22,7 @@ Esto permitiría mostrar que la calidad de un espacio público no depende de una
 
 ### Arquetipo de historia
 
-Considero que nuestro proyecto se ajusta principalmente al arquetipo de **Revelación**, porque buscamos utilizar los datos para hacer visible una diferencia que no podríamos dimensaionar a simplre vista. Conocemos la existencia de desigualdades en Santiago, pero no necesariamente el cómo aspectos simples de terceros espacios impactan en la calidad de vida de las personas. 
+Considero que el proyecto se ajusta principalmente al arquetipo de **Revelación**, porque buscamos utilizar los datos para hacer visible una diferencia que no podríamos dimensaionar a simplre vista. Conocemos la existencia de desigualdades en Santiago, pero no necesariamente el cómo aspectos simples de terceros espacios impactan en la calidad de vida de las personas. 
 
 Los datos permitirán comprobar si existe una relación entre el nivel socioeconómico de las comunas y la calidad de sus plazas y parques, identificando posibles patrones. En este sentido, el objetivo no es solamente describir cómo son estos espacios, sino utilizar la información para descubrir algo que no podríamos determinar únicamente desde nuestra percepción del territorio.
 
