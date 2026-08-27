@@ -91,6 +91,7 @@ La novedad que queremos proponer dista de lo obvio: probar que hay desigualdades
 ***Gráficos*** (donde se comparen los porcentajes de las distintas categorías antes establecidas, de forma que la información entre de una forma visual más potente que solo leer el número) Por ejemplo:
 
 ![alt text](image-1.png)
+
 *Foto de: The Pudding "tiktok success"*
 
 Cambiar “not from tiktok” a “áreas verdes en la comuna x” y “from tiktok” a “áreas verdes en la comuna x” 
