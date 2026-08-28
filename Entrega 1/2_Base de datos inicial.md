@@ -26,3 +26,16 @@ El **Instituto Nacional de Estadísticas (INE)** elaboró en 2019 el estudio *In
 **Archivo Excel con la base de datos utilizada:** https://uccl0-my.sharepoint.com/:x:/g/personal/dcantillana_estudiante_uc_cl/IQDeeUWRWglJS4RnxUiirbKbATAnid3iYUIC2e7yVs2bFpU?e=hgsZa9
 
 **Fuente original:** [Instituto Nacional de Estadísticas (INE)](https://www.ine.gob.cl/)
+
+### 3. Base de datos existente
+
+El [Índice de Priorización Social (IPS)](https://nubeinversiones.cl/webnube/wp-content/uploads/2022/06/INDICE-DE-PRIORIDAD-SOCIAL-2022_V2.pdf) elaborado por la Secretaría Regional Ministerial de Desarrollo Social y Familia de la Región Metropolitana es una base de datos que fue elaborada por la Secretaría Regional Ministerial de Desarrollo Social y Familia de la Región Metropolitana (Seremi MDSF RM), perteneciente al Gobierno de Chile. Para la investigación, la información se obtuvo mediante la descarga directa de las planillas de cálculo públicas que contienen los puntajes e indicadores desglosados por comuna.
+
+**Contenido:**
+La base de datos contiene información cuantitativa y administrativa sobre los niveles de vulnerabilidad, desarrollo social y carencias socioeconómicas en las 52 comunas de la Región Metropolitana. Corresponde a un tipo de dato secundario de corte transversal y numérico, estructurado en índices y porcentajes. Entre sus variables principales destacan la tasa de pobreza por ingresos, la pobreza multidimensional, el nivel de escolaridad promedio, la deserción escolar, la cobertura del sistema público de salud (FONASA) y los índices de mortalidad comunal. Los datos primarios utilizados para construir este índice corresponden a mediciones y registros levantados en los periodos recientes de la Encuesta CASEN y registros administrativos de salud y educación.
+
+**Pertinencia:**
+Esta base de datos resulta fundamental para la investigación porque ofrece una medición oficial enfocada exclusivamente en el territorio metropolitano, permitiendo comparar de forma directa a las 52 comunas bajo los mismos criterios. Para el desarrollo del reportaje y la plataforma web, el archivo es un insumo clave, ya que entrega el respaldo numérico necesario para contrastar la calidad de vida entre las comunas de altos ingresos y las de menores recursos. Gracias a estos datos, es posible demostrar con evidencia cuantitativa que las diferencias en bienestar no son solo una percepción, sino una brecha estructural medible en salud, educación e ingresos.
+
+**Metodología:**
+La Seremi de Desarrollo Social construye este índice mediante una metodología de consolidación y procesamiento de fuentes secundarias oficiales. La información de origen proviene de los levantamientos de campo de la Encuesta de Caracterización Socioeconómica Nacional (CASEN) —aplicada de forma presencial mediante cuestionarios estructurados en hogares—, además de las bases de datos de registros administrativos del Ministerio de Educación (MINEDUC), el Ministerio de Salud (MINSAL) y el Fondo Nacional de Salud (FONASA). La institución estandariza estas distintas variables, les asigna una ponderación según su impacto social y calcula un puntaje final que clasifica a cada comuna en un rango de prioridad social.
