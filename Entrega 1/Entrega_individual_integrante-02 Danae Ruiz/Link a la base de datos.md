@@ -1,1 +1,0 @@
-[Índice de Priorización Social (IPS)](https://nubeinversiones.cl/webnube/wp-content/uploads/2022/06/INDICE-DE-PRIORIDAD-SOCIAL-2022_V2.pdf) elaborado por la Secretaría Regional Ministerial de Desarrollo Social y Familia de la Región Metropolitana
