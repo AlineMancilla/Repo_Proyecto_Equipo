@@ -1,5 +1,5 @@
 # Repo_Proyecto_Equipo
-¡Bienvenidos a nuestro Repo!
+¡Bienvenid@s a nuestro Repo!
 
 ### Integrantes:
 * Danitza Cantillana
