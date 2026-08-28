@@ -26,3 +26,5 @@ El **Instituto Nacional de Estadísticas (INE)** elaboró en 2019 el estudio *In
 **Archivo Excel con la base de datos utilizada:** https://uccl0-my.sharepoint.com/:x:/g/personal/dcantillana_estudiante_uc_cl/IQDeeUWRWglJS4RnxUiirbKbATAnid3iYUIC2e7yVs2bFpU?e=hgsZa9
 
 **Fuente original:** [Instituto Nacional de Estadísticas (INE)](https://www.ine.gob.cl/)
+
+3. Base de datos existente
