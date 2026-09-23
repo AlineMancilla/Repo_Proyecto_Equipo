@@ -24,8 +24,8 @@ La base original tiene estas variables:
 
 | Comuna | Clasificación PNDR | Medición | Valor delindicador | Brecha |
 | --------                           | ------------------                              | -------- | ------------------ | ------ |
-| Comunas de la región metropolitana | Según la característica de la comuna. | 
-|                                    | Puede ser clasificada como rural, urbana o mixta |                                      |
+| Comunas de la región metropolitana | Según la característica de la comuna. | No se especifíca en la página | Son los metros cuadrados de áreas verde por persona | No se especifica en la página ||
+|                                    | Puede ser clasificada como rural, urbana o mixta |  |                 |
 
 
 
