@@ -22,9 +22,9 @@ Son datos estructurados, cuantitativo continuo
 La base original tiene estas variables: 
 
 
-| Título 1 | Título 2 | Título 3 |
-| -------- | -------- | -------- |
-| Celda 1  | Celda 2  | Celda 3  |
-| Celda 4  | Celda 5  | Celda 6  |
+| Comuna | Clasificación PNDR | Medición | Valor delindicador | Brecha |
+| --------                           | ------------------ | -------- | ------------------ | ------ |
+| Comunas de la región metropolitana | Celda 2            | Celda 3  |
+| Celda 4                            | Celda 5            | Celda 6  |
 
 
