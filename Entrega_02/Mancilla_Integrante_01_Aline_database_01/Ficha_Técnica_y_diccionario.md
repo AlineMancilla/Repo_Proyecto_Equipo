@@ -24,8 +24,9 @@ La base original tiene estas variables:
 
 | Comuna | Clasificación PNDR | Medición | Valor delindicador | Brecha |
 | --------                           | ------------------                              | -------- | ------------------ | ------ |
-| Comunas de la región metropolitana | Según la característica de la comuna.           |
-                                     |Puede ser clasificada como rural, urbana o mixta |  
-| Celda 4                            | Celda 5                                         | Celda 6  |
+| Comunas de la región metropolitana | Según la característica de la comuna. | 
+|                                    | Puede ser clasificada como rural, urbana o mixta |                                      |
+
+
 
 
