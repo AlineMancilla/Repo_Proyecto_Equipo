@@ -26,7 +26,7 @@ La base original tiene estas variables:
 | --------                           | ------------------                              | -------- | ------------------ | ------ |
 | Comunas de la región metropolitana | Según la característica de la comuna. | No se especifíca | Son los metros cuadrados de áreas verde por persona | No se especifíca ||
 |                                    | Puede ser clasificada como rural, urbana o mixta |  |                 |
-| Dato cualitativo nominal| Dato cuantitativo | Dato cuantitativo | Dato cuantitativo continuo | Dato cuantitativso | 
+| Dato cualitativo nominal| Dato cuantitativo | Dato cuantitativo | Dato cuantitativo continuo | Dato cuantitativo | 
 
 
 
