@@ -14,7 +14,7 @@ El límite es que, al ser un promedio comunal, no se especifica si existen desig
 
 ### Característica de los datos:  
 
-Son datos estructurados, cuantitativo continuo 
+Son datos de tipo cualitativos y cuantitativos. El principal (y que nos va a ayudar a llegar a la respuesta de nuestra hipótesis) son los metros cuadrados de áreas verde por persona, un tipo de dato cuantitativo continuo. El dato cualitativo vendrían siendo las comunas.
 
 
 ### Diccionario de datos:
