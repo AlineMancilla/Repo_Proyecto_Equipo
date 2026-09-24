@@ -4,7 +4,7 @@ Instituto Nacional de Estadísticas (INE), del [indicador de áreas verdes por p
 
 ### Metodología de la construcción de la base:  
 
-El INE obtiene la información a través de encuestas, registros y censos. Además r organismos independientes al INE y luego enviados a éste para su revisión, tabulación, análisis y publicación. 
+El INE obtiene la información a través de encuestas, registros y censos. Además participan organismos independientes al INE a los que se les envia los datos obtenidos para su revisión, tabulación, análisis y publicación. 
 
 ### Alcance de los datos:  
 
