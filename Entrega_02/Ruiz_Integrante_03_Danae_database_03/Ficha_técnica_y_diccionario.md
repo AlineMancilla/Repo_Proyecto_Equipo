@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ficha técnica y diccionario de datos
 
 ## 1. Fuente de los datos
