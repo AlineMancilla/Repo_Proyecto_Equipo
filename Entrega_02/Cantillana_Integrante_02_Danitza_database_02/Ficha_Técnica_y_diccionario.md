@@ -8,8 +8,6 @@
 * **Limitación del dato:** Representa una evaluación estandarizada en un periodo determinado, por lo que los índices de calidad pueden requerir actualización frente a intervenciones urbanas recientes.
 
 ## 2. Diccionario de datos
-A continuación se detallan las principales variables que componen la base de datos limpia:
-
 | Variable | Descripción |
 | :--- | :--- |
 | `COMUNA` | Nombre de la comuna donde se emplaza el espacio público. |
