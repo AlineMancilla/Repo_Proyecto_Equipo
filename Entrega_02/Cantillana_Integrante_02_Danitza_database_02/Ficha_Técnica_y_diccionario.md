@@ -10,13 +10,13 @@
 ## 2. Diccionario de datos
 A continuación se detallan las principales variables que componen la base de datos limpia:
 
-| Variable | Tipo de Dato | Descripción |
-| :--- | :--- | :--- |
-| `COMUNA` | Texto | Nombre de la comuna donde se emplaza el espacio público. |
-| `TIPO_EP` | Texto | Tipo de espacio público (ej. Parque o Plaza). |
-| `SUP_TOTAL_M2` | Numérico / Texto | Superficie total del espacio medida en metros cuadrados. |
-| `Bancas_escanos` | Texto | Estado o presencia de bancas y escaños en el lugar. |
-| `Luminarias` | Texto | Evaluación de la presencia y estado del sistema lumínico. |
-| `Basureros` | Texto | Disponibilidad y estado de los contenedores de basura. |
-| `CALIDAD` | Numérico | Índice ponderado final de calidad del espacio público. |
-| `RANGO_CALIDAD` | Texto | Categorización del puntaje de calidad en Rango Superior, Intermedio o Inferior. |
+| Variable | Descripción |
+| :--- | :--- |
+| `COMUNA` | Nombre de la comuna donde se emplaza el espacio público. |
+| `TIPO_EP` | Tipo de espacio público (ej. Parque o Plaza). |
+| `SUP_TOTAL_M2` | Superficie total del espacio medida en metros cuadrados. |
+| `Bancas_escanos` | Estado o presencia de bancas y escaños en el lugar. |
+| `Luminarias` | Evaluación de la presencia y estado del sistema lumínico. |
+| `Basureros` | Disponibilidad y estado de los contenedores de basura. |
+| `CALIDAD` | Índice ponderado final de calidad del espacio público. |
+| `RANGO_CALIDAD` | Categorización del puntaje de calidad en Rango Superior, Intermedio o Inferior. |
