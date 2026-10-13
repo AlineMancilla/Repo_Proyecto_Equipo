@@ -4,7 +4,7 @@ Quería que fuera un gráfico donde a simple vista se pueda identificar la difer
 
 ![alt text](![alt text](image.png))
 
-![alt text](![alt text](c:\Users\aline\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-10-13 183324.png))
+![alt text](![alt text](![alt text](image-1.png)))
 
 
 
