@@ -1,0 +1,7 @@
+## Crónica
+
+Este gráfico muestra la cantidad de áreas verdes (en metros cuadrados) por persona en comunas urbanas del Gran Santiago, siendo estas 41 comunas. Debido a que es una foto jpg no se logra visualizar la interactividad del gráfico, pero si se coloca el puntero sobre alguna de las barras muestra el número exacto de áreas verdes en la respectiva comuna. Este gráfico, si bien simple, permite evidenciar de inmediato cuales son las comunas con más áreas verdes y cuáles son las menores. 
+
+Podemos ver que Recoleta se ubica primera, lo que pareciera por intuición ser incorrecto o un dato sorpresivo, teniendo en cuenta la diferencia socioeconómica de esta comuna con Vitacura, sin embargo, este gráfico no toma en cuenta la distribución de las áreas verdes, esto explica la posición de Recoleta ya que en esa comuna está ubicado el cerro San Cristóbal. Por lo que no se descarta la desigualdad en términos de distribución. Ya que no es lo mismo tener áreas verdes cerca o en casa que un área verde enorme para toda la comuna. Por lo que representa una baja superficie de arborización pública y plazas vecinales, que es la realidad de varias comunas. 
+
+Es por esto por lo que el gráfico debe verse también de forma crítica en el caso de las comunas ubicadas hacia el lado izquierdo, donde “se cuelan” comunas con un nivel socioeconómico más bajo. 
