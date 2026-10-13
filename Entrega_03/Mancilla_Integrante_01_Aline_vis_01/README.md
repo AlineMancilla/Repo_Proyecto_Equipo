@@ -1,8 +1,10 @@
 ## Cómo se realizó
 Quería que fuera un gráfico donde a simple vista se pueda identificar la diferencia en la cantidad de áreas verdes por comuna, creo que un gráfico de barras es una de las mejores opciones en este caso. Elegí ese gráfico desde Altair porque también permite algo de interactividad: si se pasa sobre las barras da la cantidad exacta de áreas verdes, que complementa el eje Y. Además, si se presiona sobre alguna de las barras resalta por sobre el resto. 
+
+
 ![alt text](![alt text](image.png))
 
-
+![alt text](![alt text](c:\Users\aline\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-10-13 183324.png))
 
 
 
