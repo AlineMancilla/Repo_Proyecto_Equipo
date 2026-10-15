@@ -11,3 +11,13 @@ Quería que fuera un gráfico donde a simple vista se pueda identificar la difer
 En base al código del gráfico de Altair adicionalmente le pedía ayuda a la IA para agregar los elementos de interactividad.  
 
 El gráfico está basado en los datos de la base de datos de la entrega 2 que tiene como nombre “Aline_database_limpia.csv” cuyo contenido son la cantidad de áreas verde por persona en metros cuadrados en las comunas urbanas del Gran Santiago. El único cambio es que para realizar el gráfico no considere la columna “CLASIFICACIÓN PNDR” ya que no otorgaba información relevante (ya que se explicita que estamos trabajando con esas 41 comunas) 
+
+### Preguntas que se pueden responder:  
+
+¿cuantos metros cuadrados de áreas verdes por habitante hay en x comuna? 
+
+¿Cuál es la comuna con mayor cantidad de áreas verdes por habitante? 
+
+¿Cuál es la comuna con menor cantidad de áreas verdes por habitante? 
+
+¿hay comunas con igual cantidad de áreas verdes? 
