@@ -1,0 +1,2 @@
+### Ficha técnica: 
+Los datos no han cambiado respecto de la entrega anterior, se mantienen sus características. Solo se incluyeron las variables necesarias de la base original para este análisis: la variable “COMUNA” en el eje Y, que representa a las comunas urbanas del Gran Santiago, y la variable “CALIDAD” en el eje X, que corresponde al promedio del índice de calidad, estado y equipamiento de los espacios públicos (parques y plazas) por cada comuna, respaldado además por datos de superficie e infraestructura básica.
