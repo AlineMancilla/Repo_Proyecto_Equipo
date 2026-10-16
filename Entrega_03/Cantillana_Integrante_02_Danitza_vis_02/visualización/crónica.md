@@ -6,4 +6,4 @@ El resultado de la limpieza de base datos y su posterior conversión a gráfico,
 
 En el gráfico se aprecia como en la parte superior las barras se concentran las comunas capaces de sostener estándares altos, donde los espacios públicos operan como verdaderos pulmones comunitarios. Pero a medida que avanzamos hacia abajo en el gráfico, la realidad cambia drásticamente: aparecen las comunas donde los espacios verdes reflejan un abandono sistemático y crónico por parte de la gestión municipal.
 
-Nuestra visualización muestra que la brecha en Santiago no es solo económica; se traduce también en cómo el Estado y los municipios cuidan (o descuidan) los metros cuadrados donde conviven sus habitantes. 
+La visualización muestra que la brecha en Santiago no es solo económica, se traduce también en cómo el Estado y los municipios cuidan (o descuidan) los metros cuadrados donde conviven sus habitantes. 
