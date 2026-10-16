@@ -1,0 +1,9 @@
+# Crónica
+
+Cuando una persona abre el mapa de Santiago guiándose solo por la cantidad de hectáreas verdes que prometen los planos reguladores, la ciudad parece un lugar más o menos equilibrado. Pero basta con empezar a mirar los datos bajados reales (en este caso los registros que levantó el MINVU plaza por plaza) para darse cuenta de que el verde en la RM tiene categorías, jerarquías y, sobre todo, una profunda desigualdad.
+
+El resultado de la limpieza de base datos y su posterior conversión a gráfico, no hizo más que ponerle números a una sospecha cotidiana. No es lo mismo caminar por un parque donde las luminarias funcionan, las bancas están enteras y la vegetación recibe mantención constante, que sentarse en una plaza de alguna comuna de la periferia donde el suelo es solo tierra seca, los juegos están quebrados y el mobiliario está en mal estado o simplemente no existe. 
+
+En el gráfico se aprecia como en la parte superior las barras se concentran las comunas capaces de sostener estándares altos, donde los espacios públicos operan como verdaderos pulmones comunitarios. Pero a medida que avanzamos hacia abajo en el gráfico, la realidad cambia drásticamente: aparecen las comunas donde los espacios verdes reflejan un abandono sistemático y crónico por parte de la gestión municipal.
+
+Nuestra visualización muestra que la brecha en Santiago no es solo económica; se traduce también en cómo el Estado y los municipios cuidan (o descuidan) los metros cuadrados donde conviven sus habitantes. 
