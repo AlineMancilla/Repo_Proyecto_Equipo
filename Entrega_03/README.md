@@ -1,3 +1,4 @@
+No ha presentado cambios según la entrega anterior.
 # Hipótesis actual: ¿Qué queremos demostrar o revelar?
 
 Queremos demostrar que las áreas verdes y los ingresos económicos de cada comuna están directamente relacionados y revelan una desigualdad territorial.  
