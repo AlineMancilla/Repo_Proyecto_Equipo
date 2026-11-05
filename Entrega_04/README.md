@@ -6,3 +6,9 @@ Esta misma premisa la podemos ver en el moodboard, donde el objetivo está puest
 Enlace al wireframe: 
 
 https://miro.com/app/board/uXjVER0M2HY=/?share_link_id=711259979777 
+
+Perfiles de persona:
+https://miro.com/welcomeonboard/bjlYMHk1STZNVDB4THp2a1dEeSt4MHMwVm8wZThmSW1BSGtjOXdpRWRFbHVwOHkwWm5TemJ4bk00d1d0YVRadnhaWWg1Wi96Z2wzVXVhZVJEbjJKWXlZZVgwaHJpOXhOTitsWEFMazNKdTBxSVJhOWdpclI0RC8zbUpieHJvMmxzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=492093936058  
+
+Mapa de viaje:
+https://miro.com/welcomeonboard/SjhLWTcxNDF2YTQ4ODRRYTNtaFAxcEgxODY4UXBpREJMYTZWYzA4NW9JVnF1bEZMZ2RPUnlkbkYzSEVTdm4vdmlVTHk0MjNreTJ1Q0lhUm83THRGdENZZVgwaHJpOXhOTitsWEFMazNKdTNlTVlHTmxYSWMxa0hYdEVJTjVORVFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=698115575266  
