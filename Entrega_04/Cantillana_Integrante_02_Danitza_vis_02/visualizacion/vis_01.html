@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-03d0c8951ccfd20ecd9837284085f8bc"}, "mark": {"type": "bar", "color": "#2b5c8f"}, "encoding": {"tooltip": [{"field": "COMUNA", "type": "nominal"}, {"field": "CALIDAD", "type": "quantitative"}], "x": {"field": "CALIDAD", "title": "Promedio de \u00cdndice de Calidad", "type": "quantitative"}, "y": {"field": "COMUNA", "sort": "-x", "title": "Comuna (Ordenada de mayor a menor calidad)", "type": "nominal"}}, "height": 600, "title": "Promedio de Calidad de Zonas Verdes por Comuna", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-03d0c8951ccfd20ecd9837284085f8bc": [{"COMUNA": "BUIN", "CALIDAD": 22.621272189349114}, {"COMUNA": "CERRILLOS", "CALIDAD": 37.733030303030304}, {"COMUNA": "CERRO NAVIA", "CALIDAD": 44.51018181818182}, {"COMUNA": "COLINA", "CALIDAD": 42.89176470588235}, {"COMUNA": "CONCHAL\u00cd", "CALIDAD": 62.35226851851852}, {"COMUNA": "EL BOSQUE", "CALIDAD": 58.7936559139785}, {"COMUNA": "ESTACI\u00d3N CENTRAL", "CALIDAD": 66.65043010752687}, {"COMUNA": "HUECHURABA", "CALIDAD": 31.63511627906977}, {"COMUNA": "INDEPENDENCIA", "CALIDAD": 66.33828125}, {"COMUNA": "LA CISTERNA", "CALIDAD": 51.26327272727273}, {"COMUNA": "LA FLORIDA", "CALIDAD": 58.33439767779391}, {"COMUNA": "LA GRANJA", "CALIDAD": 65.82517948717948}, {"COMUNA": "LA PINTANA", "CALIDAD": 64.43660583941606}, {"COMUNA": "LA REINA", "CALIDAD": 45.082368421052635}, {"COMUNA": "LAMPA", "CALIDAD": 31.832222222222224}, {"COMUNA": "LAS CONDES", "CALIDAD": 60.408414322250636}, {"COMUNA": "LO BARNECHEA", "CALIDAD": 49.68906574394463}, {"COMUNA": "LO ESPEJO", "CALIDAD": 52.34125874125874}, {"COMUNA": "LO PRADO", "CALIDAD": 37.144400000000005}, {"COMUNA": "MACUL", "CALIDAD": 41.92160220994475}, {"COMUNA": "MAIP\u00da", "CALIDAD": 60.013420822397194}, {"COMUNA": "MELIPILLA", "CALIDAD": 57.831160714285716}, {"COMUNA": "PADRE HURTADO", "CALIDAD": 56.45089552238806}, {"COMUNA": "PEDRO AGUIRRE CERDA", "CALIDAD": 60.34365384615384}, {"COMUNA": "PE\u00d1AFLOR", "CALIDAD": 43.88110236220472}, {"COMUNA": "PE\u00d1ALOL\u00c9N", "CALIDAD": 39.39719262295082}, {"COMUNA": "PROVIDENCIA", "CALIDAD": 71.01413461538462}, {"COMUNA": "PUDAHUEL", "CALIDAD": 50.92177049180328}, {"COMUNA": "PUENTE ALTO", "CALIDAD": 44.866231527093596}, {"COMUNA": "QUILICURA", "CALIDAD": 49.63932795698925}, {"COMUNA": "QUINTA NORMAL", "CALIDAD": 45.36849056603774}, {"COMUNA": "RECOLETA", "CALIDAD": 58.30401234567901}, {"COMUNA": "RENCA", "CALIDAD": 58.63163636363636}, {"COMUNA": "SAN BERNARDO", "CALIDAD": 62.65081196581196}, {"COMUNA": "SAN JOAQU\u00cdN", "CALIDAD": 59.583000000000006}, {"COMUNA": "SAN MIGUEL", "CALIDAD": 65.23142857142858}, {"COMUNA": "SAN RAM\u00d3N", "CALIDAD": 64.4990977443609}, {"COMUNA": "SANTIAGO", "CALIDAD": 50.137692307692305}, {"COMUNA": "TALAGANTE", "CALIDAD": 16.86745341614907}, {"COMUNA": "VITACURA", "CALIDAD": 62.38537190082645}, {"COMUNA": "\u00d1U\u00d1OA", "CALIDAD": 59.68818181818182}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
