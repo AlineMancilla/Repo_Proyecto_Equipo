@@ -12,3 +12,7 @@ https://miro.com/welcomeonboard/bjlYMHk1STZNVDB4THp2a1dEeSt4MHMwVm8wZThmSW1BSGtj
 
 Mapa de viaje:
 https://miro.com/welcomeonboard/SjhLWTcxNDF2YTQ4ODRRYTNtaFAxcEgxODY4UXBpREJMYTZWYzA4NW9JVnF1bEZMZ2RPUnlkbkYzSEVTdm4vdmlVTHk0MjNreTJ1Q0lhUm83THRGdENZZVgwaHJpOXhOTitsWEFMazNKdTNlTVlHTmxYSWMxa0hYdEVJTjVORVFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=698115575266  
+
+# Justificación de la estructura y propuesta de flujo
+
+El diseño de la plataforma prioriza una estructura directa e intuitiva que facilita la lectura lineal de la narrativa. Al mismo tiempo, el contenido está organizado de forma modular, lo que permite a cada usuario identificar con rapidez los apartados de su interés y navegar de manera independiente, ofreciendo así una experiencia flexible tanto para quienes prefieren seguir la historia completa como para quienes buscan información específica. 
