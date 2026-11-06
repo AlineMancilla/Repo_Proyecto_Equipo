@@ -3,6 +3,8 @@ Al momento de creación de nuestro manual de marca e identidad visual decidimos 
 
 Esta misma premisa la podemos ver en el moodboard, donde el objetivo está puesto en las comunidades y la desigualdad a la que están expuestas. Las tipografías las decidimos en conjunto al experimentar con distintos tipos, colores y tamaños, Kentle y Monserrat fueron las elegidas por su legibilidad y nitidez.  
 
+El diseño de la plataforma prioriza una estructura directa e intuitiva que facilita la lectura lineal de la narrativa. Al mismo tiempo, el contenido está organizado de forma modular, lo que permite a cada usuario identificar con rapidez los apartados de su interés y navegar de manera independiente, ofreciendo así una experiencia flexible tanto para quienes prefieren seguir la historia completa como para quienes buscan información específica. 
+
 Enlace al wireframe: 
 
 https://miro.com/app/board/uXjVER0M2HY=/?share_link_id=711259979777 
