@@ -16,3 +16,7 @@ https://miro.com/welcomeonboard/SjhLWTcxNDF2YTQ4ODRRYTNtaFAxcEgxODY4UXBpREJMYTZW
 ## Justificación de la estructura y propuesta de flujo
 
 El diseño de la plataforma prioriza una estructura directa e intuitiva que facilita la lectura lineal de la narrativa. Al mismo tiempo, el contenido está organizado de forma modular, lo que permite a cada usuario identificar con rapidez los apartados de su interés y navegar de manera independiente, ofreciendo así una experiencia flexible tanto para quienes prefieren seguir la historia completa como para quienes buscan información específica. 
+
+## Hipótesis actual: ¿Qué queremos demostrar o revelar?
+Queremos demostrar que las áreas verdes y los ingresos económicos de cada comuna están directamente relacionados y revelan una desigualdad territorial.
+Parte de nuestra propuesta contempla los siguientes resultados: 
