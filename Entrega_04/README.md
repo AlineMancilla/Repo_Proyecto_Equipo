@@ -19,4 +19,6 @@ El diseño de la plataforma prioriza una estructura directa e intuitiva que faci
 
 ## Hipótesis actual: ¿Qué queremos demostrar o revelar?
 Queremos demostrar que las áreas verdes y los ingresos económicos de cada comuna están directamente relacionados y revelan una desigualdad territorial.
-Parte de nuestra propuesta contempla los siguientes resultados: 
+Parte de nuestra propuesta contempla los siguientes resultados: desarrollar una investigación de carácter visual que logre contrastar los ingresos de las comunas con la distribución de áreas verdes naturales en la ciudad.
+
+El resultado máximo al que puede llegar la investigación es generar una narrativa que no solo demuestre la desigualdad territorial, sino que logre vincular la falta de áreas verdes con consecuencias directas en la calidad de vida. Que la visualización funcione como herramienta de denuncia, lo que haga evidente el problema estructural que los datos numéricos no logran comunicar por sí solos.
