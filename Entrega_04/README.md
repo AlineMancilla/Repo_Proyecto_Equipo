@@ -16,6 +16,7 @@ Enlace Mapa de viaje:
 https://miro.com/welcomeonboard/SjhLWTcxNDF2YTQ4ODRRYTNtaFAxcEgxODY4UXBpREJMYTZWYzA4NW9JVnF1bEZMZ2RPUnlkbkYzSEVTdm4vdmlVTHk0MjNreTJ1Q0lhUm83THRGdENZZVgwaHJpOXhOTitsWEFMazNKdTNlTVlHTmxYSWMxa0hYdEVJTjVORVFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=698115575266  
 
 Enlace libro de identidad visual:
+
 https://canva.link/kwh2qyntp4larxy  
 
 ## Justificación de la estructura y propuesta de flujo
