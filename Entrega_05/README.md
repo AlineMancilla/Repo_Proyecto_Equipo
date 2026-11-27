@@ -15,7 +15,7 @@ Nuestra hipótesis inicial era: demostrar que las áreas verdes y los ingresos e
 | Elemento | Integrante 1 | Integrante 2 | Integrante 3 |
 |:---------|:-------------|:-------------|:-------------|
 | Visualización 01     |              |              |       Aline Mancilla       |
-| documentos read me        |              |              |              |
-| manual de identidad       |              |              |              |
-| wireframe
+| documentos read me        |              |              |              |        Aline Mancilla
+| manual de identidad       |              |              |              |Aline Mancilla
+| wireframe                |                |               |            |Aline Mancilla          |
 | viaje del usuario 
