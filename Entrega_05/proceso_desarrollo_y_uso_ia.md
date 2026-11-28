@@ -9,4 +9,8 @@ Principalmente la implementación de la IA vino al momento de querer hacer modif
 
 También se usó para crear la web, replicamos lo practicado en clases con la tarea 3 y modificamos el prompt con las características de nuestro reportaje. 
 
-### 
+### Cambios realizados por el equipo sobre el código generado o sugerido
+Principalmente los cambios fueron para cambiar la estética de las visualizaciones, se insertaros los png de los pictogramas usados (árbol, monedas, etc) y también para modificar los tamaños de los iconos. Y, como mencionamos anteriormente, los códigos de color que también ya habíamos definido en nuestro manual de identidad visual. 
+
+### Problemas encontrados, iteraciones y soluciones aplicadas
+Nuestros principales problemas giraron entorno a las visualizaciones, primero a qué se exportaran de forma correcta desde altair, segundo a qué la IA fuera capaz de aplicar los cambios necesarios para que cambiará las barras por pictogramas, que aplicará los códigos de color de nuestro manual de identidad. Lo que más demoró fue adecuar el tamaño de los pictogramas de las visualizaciones ya que tuvimos varios intentos fallidos donde se sobre ponían unos con otros, o eran muy grandes y tapaban las leyendas. Pero logramos, en parte, entender las fallas que exigía el código para poder arreglarlo.
