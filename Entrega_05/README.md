@@ -1,4 +1,4 @@
-## Titular del reportaje:  
+## Titular del reportaje
 
 Desigualdad Verde 
 
