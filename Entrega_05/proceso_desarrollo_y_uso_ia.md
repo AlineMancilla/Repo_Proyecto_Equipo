@@ -14,3 +14,7 @@ Principalmente los cambios fueron para cambiar la estética de las visualizacion
 
 ## Problemas encontrados, iteraciones y soluciones aplicadas
 Nuestros principales problemas giraron entorno a las visualizaciones, primero a qué se exportaran de forma correcta desde altair, segundo a qué la IA fuera capaz de aplicar los cambios necesarios para que cambiará las barras por pictogramas, que aplicará los códigos de color de nuestro manual de identidad. Lo que más demoró fue adecuar el tamaño de los pictogramas de las visualizaciones ya que tuvimos varios intentos fallidos donde se sobre ponían unos con otros, o eran muy grandes y tapaban las leyendas. Pero logramos, en parte, entender las fallas que exigía el código para poder arreglarlo.
+
+## Pruebas finales de contenido
+Hasta este momento la página puede ver todas las visualizaciones y los elementos interactivos funcionan, también se logró implementar el manual de identidad visual respetando los colores y tipografías. Sin embargo, la lectura en celulares no está de todo correcta, en parte porque no nos enfocamos en este dispositivo, siempre lo pensamos como una webstory vista desde un computador.
+
