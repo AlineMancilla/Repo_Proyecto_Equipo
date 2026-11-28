@@ -1,0 +1,12 @@
+### Análisis visual
+
+En el gráfico, se ve representada cada una de las 41 comunas urbana de la RM, ordenada de mayor a menor según su promedio en el Índice General de Calidad de zonas verdes. Este se lee de la siguiente manera, el eje vertical (y) enumera las comunas antes mencionadas de arriba hacia abajo según su puntaje en orden descendente. Por otro lado, el eje horizontal (x) muestra el promedio del índice de calidad representado mediante pictogramas (mano sosteniendo un brote). Cada ícono equivale a 10 puntos de calidad, mientras más a la dereche llegue la fila de íconos, en mejor calidad están las áreas verdes de la comuna. 
+
+Para reforzar la idea de que tan bien o que tan mal está la calidad de las áreas verdes de cada comuna considerada, se utilizan los colores propios de la identidad visual de la página, donde las tonalidades verdes son asociadas a una mejor calidad y por el contrario el burdeo es considerado una atribución negativa, ya que indica que la calidad es baja. 
+
+La primera dimensión que explora el gráfico es la calidad del espacio. Al ordenar las 41 comunas de mayor a menor, se observa una diferencia marcada entre los extremos, por ejemplo Providencia encabeza la lista con 71,01 puntos, seguida de cerca por Estación Central (66,65), Independencia (66,34) y La Granja (65,83), mientras que en el tramo inferior aparecen comunas como Huechuraba (31,64) y Lampa (31,83). La segunda dimensión es la desigualdad territorial y de mantención, donde los colores dejan ver que las comunas con peores indicadores suelen concentrarse en sectores periféricos y con menor capacidad de gestión sobre sus plazas y parques.
+
+Se pueden identificar también casos particulares, como en la comuna de Recoleta por ejemplo, ya que presenta ingresos más bajos, pero de todas formas lidera en superficie de áreas verdes por habitante debido a grandes parques concentrados como el Cerro San Cristóbal, su promedio de calidad se ubica en un tramo más moderado, evidenciando el desafío de mantener de forma pareja todos sus espacios públicos.
+
+Además, el ordenamiento vertical y el aspecto interactivo permiten que cada lector busque rápidamente su comuna y compare su realidad con el resto del Gran Santiago.
+
