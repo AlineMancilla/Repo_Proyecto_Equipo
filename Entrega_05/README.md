@@ -10,12 +10,16 @@ La desigualdad en el territorio no se mide solo por niveles socioeconómicos, ha
 
 Nuestra hipótesis inicial era: demostrar que las áreas verdes y los ingresos económicos de cada comuna están directamente relacionados y revelan una desigualdad territorial. Pudimos demostrarlo en general, solo existe una excepción, podemos ver que calzan las comunas con menos ingresos con aquellas que tienen menos metros cuadrados de áreas verde, la excepción en Recoleta, que tiene menos ingresos a comparación con Vitacura, pero tiene una mayor cantidad de áreas verdes, esto debido a que la base de datos no considera la distribución de las áreas. 
  
+ 
+### Tabla de autoría
 
-### Tabla de autoría*. 
 | Elemento | Integrante 1 | Integrante 2 | Integrante 3 |
 |:---------|:-------------|:-------------|:-------------|
-| Visualización 01     |              |              |       Aline Mancilla       |
-| documentos read me        |              |              |              |        Aline Mancilla
-| manual de identidad       |              |              |              |Aline Mancilla
-| wireframe                |                |               |            |Aline Mancilla          |
-| viaje del usuario 
+| Visualización 01 | | | Aline Mancilla |
+| Visualización 02 | Danitza Cantillana | | |
+| Visualización 03 | | Danae Ruiz | |
+| Documentos README | | | Aline Mancilla |
+| Manual de identidad | Danitza Cantillana | Danae Ruiz | Aline Mancilla |
+| Wireframe | Danitza Cantillana | Danae Ruiz | Aline Mancilla |
+| Viaje del usuario | Danitza Cantillana | Danae Ruiz | Aline Mancilla |
+| Webstory | | Danae Ruiz | |
