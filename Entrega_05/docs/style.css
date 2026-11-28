@@ -1,0 +1,1007 @@
+:root {
+  --rojo: #602C2C;
+  --amarillo: #F6E7A6;
+  --olive: #4F6815;
+  --crema: #FAF7F2;
+  --ocre: #8C5A2B;
+  --sienna: #8C4334;
+  --dorado: #C29243;
+  --hairline: rgba(96, 44, 44, 0.24);
+  --hairline-soft: rgba(96, 44, 44, 0.12);
+  --font-display: 'Klein', 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-chart-coin: 'Figtree', 'Montserrat', -apple-system, sans-serif;
+  color-scheme: light;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 88px;
+  background-color: var(--crema);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--crema);
+  color: var(--rojo);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}
+
+button:focus-visible,
+a:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline: 2.5px solid var(--olive);
+  outline-offset: 2px;
+}
+
+/* =====================================================================
+   1. TOP BRAND HEADER BAR (Wireframe: Barra Olive con Logo centrado)
+   ===================================================================== */
+.brand-topbar {
+  background-color: var(--olive);
+  color: var(--crema);
+  padding: 18px 24px;
+  border-bottom: 1.5px solid var(--rojo);
+}
+
+.brand-topbar-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+}
+
+.logo-seal {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  padding: 8px 18px;
+  background-color: var(--crema);
+  border: 1.5px solid var(--rojo);
+  border-radius: 0 22px 0 22px;
+  transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.logo-seal:hover {
+  transform: translateY(-1px);
+}
+
+.logo-wordmark {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+}
+
+.logo-wordmark-main {
+  font-family: var(--font-display);
+  font-size: clamp(16px, 2vw, 21px);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.logo-wordmark-main .w-rojo {
+  color: var(--rojo);
+}
+
+.logo-wordmark-main .w-olive {
+  color: var(--olive);
+}
+
+.logo-wordmark-sub {
+  font-family: var(--font-body);
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: var(--rojo);
+  text-transform: uppercase;
+  margin-top: 3px;
+  white-space: nowrap;
+}
+
+/* =====================================================================
+   2. LEAF MENU BAR (Wireframe: Botones del menú en forma de hoja)
+   ===================================================================== */
+.leaf-nav-wrap {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background-color: rgba(250, 247, 242, 0.96);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--hairline);
+  padding: 12px 16px;
+}
+
+.leaf-nav {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.leaf-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 8px 18px;
+  background-color: var(--amarillo);
+  color: var(--rojo);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  border: 1.5px solid rgba(96, 44, 44, 0.18);
+  /* Forma de hoja del Manual de Identidad Visual (p. 2 y p. 8) */
+  border-radius: 0 18px 0 18px;
+  transition: background-color 0.18s cubic-bezier(0.16, 1, 0.3, 1),
+              color 0.18s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.18s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.18s ease;
+}
+
+.leaf-btn:hover {
+  background-color: var(--olive);
+  color: var(--crema);
+  border-color: var(--olive);
+  transform: translateY(-1px);
+}
+
+.leaf-btn.is-active {
+  background-color: var(--rojo);
+  color: var(--crema);
+  border-color: var(--rojo);
+}
+
+@media (max-width: 680px) {
+  .leaf-nav {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+  .leaf-nav::-webkit-scrollbar {
+    display: none;
+  }
+  .leaf-btn {
+    min-height: 44px;
+    font-size: 11px;
+    padding: 8px 14px;
+  }
+}
+
+/* =====================================================================
+   3. EDITORIAL CONTAINER & SECTION DIVIDERS (Wireframe: Líneas fin de página)
+   ===================================================================== */
+.story-main {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px 72px;
+}
+
+.page-divider {
+  border: 0;
+  height: 2px;
+  background-color: var(--rojo);
+  margin: 52px 0;
+  opacity: 0.85;
+}
+
+.page-divider.olive {
+  background-color: var(--olive);
+}
+
+/* =====================================================================
+   4. HERO: TÍTULO + BAJADA + CARRUSEL DE FOTOS AÉREAS + PÁRRAFO
+   ===================================================================== */
+.hero-section {
+  padding-top: 44px;
+}
+
+.hero-header {
+  max-width: 820px;
+  margin: 0 auto 36px;
+  text-align: center;
+}
+
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.5rem, 5.2vw, 4rem);
+  font-weight: 800;
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+  color: var(--rojo);
+  margin: 0 0 22px;
+  text-wrap: balance;
+}
+
+.hero-title span {
+  color: var(--olive);
+}
+
+.hero-bajada {
+  font-family: var(--font-body);
+  font-size: clamp(1rem, 1.55vw, 1.18rem);
+  font-weight: 500;
+  line-height: 1.72;
+  color: var(--rojo);
+  margin: 0 auto;
+  max-width: 68ch;
+  text-align: left;
+}
+
+.editorial-rule-thin {
+  width: 100%;
+  height: 1px;
+  background-color: var(--hairline);
+  margin: 36px 0;
+}
+
+/* Subtítulo del wireframe: Así se ve la desigualdad de áreas verdes */
+.visual-section-heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 800;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 28px;
+  color: var(--rojo);
+  text-wrap: balance;
+}
+
+.visual-section-heading .olive {
+  color: var(--olive);
+}
+
+/* Carrusel horizontal interactivo (Foto 1, Foto 2, Foto 3 + flechas + 3 puntos) */
+.carousel-shell {
+  display: grid;
+  grid-template-columns: 48px 1fr 48px;
+  align-items: center;
+  gap: 14px;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+@media (max-width: 720px) {
+  .carousel-shell {
+    grid-template-columns: 40px 1fr 40px;
+    gap: 8px;
+  }
+}
+
+.arrow-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 0 14px 0 14px;
+  border: 1.5px solid var(--rojo);
+  background-color: var(--crema);
+  color: var(--rojo);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: background-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+  padding: 0;
+}
+
+.arrow-btn:hover {
+  background-color: var(--amarillo);
+  transform: scale(1.04);
+}
+
+.photo-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  align-items: stretch;
+}
+
+@media (max-width: 820px) {
+  .photo-strip {
+    grid-template-columns: 1fr;
+  }
+  .photo-card:not(.is-focused) {
+    display: none;
+  }
+}
+
+.photo-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--rojo);
+  color: var(--crema);
+  border: 2px solid var(--rojo);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.22s ease,
+              opacity 0.22s ease;
+}
+
+.photo-card.theme-yellow {
+  background-color: var(--amarillo);
+  color: var(--rojo);
+  border-color: var(--olive);
+}
+
+.photo-card.is-focused {
+  transform: translateY(-4px);
+  border-color: var(--olive);
+  box-shadow: 0 12px 26px rgba(96, 44, 44, 0.14);
+}
+
+.photo-card:not(.is-focused) {
+  opacity: 0.88;
+}
+
+.photo-card:hover {
+  opacity: 1;
+  transform: translateY(-3px);
+}
+
+.photo-media-box {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  width: 100%;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(79, 104, 21, 0.2), rgba(96, 44, 44, 0.2));
+}
+
+.photo-media-box img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.photo-card:hover .photo-media-box img {
+  transform: scale(1.03);
+}
+
+.photo-fallback {
+  display: none;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 8px;
+  background: var(--crema);
+  color: var(--rojo);
+}
+
+.photo-caption {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.photo-label {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.photo-desc {
+  font-size: 12.5px;
+  line-height: 1.5;
+  margin: 0;
+  opacity: 0.92;
+}
+
+/* 3 dots below photos */
+.carousel-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin: 22px 0 26px;
+}
+
+.dot-btn {
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  border: 2px solid var(--olive);
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  transition: background-color 0.18s ease, transform 0.18s ease;
+}
+
+.dot-btn.is-active {
+  background-color: var(--olive);
+  transform: scale(1.15);
+}
+
+/* Párrafo introductorio (debajo de las fotos y los puntos, igual que wireframe) */
+.intro-paragraph-wrap {
+  max-width: 64ch;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.intro-paragraph {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--rojo);
+  margin: 0;
+  text-align: left;
+}
+
+.down-arrow-cue {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.down-arrow-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  color: var(--rojo);
+  border-radius: 999px;
+  transition: transform 0.18s ease, color 0.18s ease;
+}
+
+.down-arrow-link:hover {
+  color: var(--olive);
+  transform: translateY(3px);
+}
+
+/* =====================================================================
+   5. SECTION 2: ÁREAS VERDES POR COMUNA (Wireframe: Título + Árbol + Bloque Olive)
+   ===================================================================== */
+.section-header-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 3.2vw, 2.5rem);
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--olive);
+  margin: 0 0 12px;
+  text-wrap: balance;
+}
+
+.section-title.rojo {
+  color: var(--rojo);
+}
+
+.section-lead {
+  max-width: 68ch;
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--rojo);
+}
+
+.tree-pictogram {
+  margin: 8px 0 16px;
+}
+
+/* Bloque verde oliva del wireframe y página 3 del manual */
+.olive-feature-box {
+  background-color: var(--olive);
+  color: var(--crema);
+  padding: 32px 36px;
+  margin-bottom: 32px;
+  border-radius: 0 32px 0 32px;
+}
+
+@media (max-width: 640px) {
+  .olive-feature-box {
+    padding: 24px 20px;
+  }
+}
+
+.olive-feature-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 28px;
+  align-items: center;
+}
+
+@media (max-width: 820px) {
+  .olive-feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.olive-feature-text {
+  font-size: 15.5px;
+  line-height: 1.72;
+  margin: 0;
+  color: var(--crema);
+}
+
+.olive-feature-text strong {
+  color: var(--amarillo);
+}
+
+.kpi-strip {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.kpi-item {
+  border: 1px solid rgba(246, 231, 166, 0.4);
+  padding: 14px 16px;
+  background-color: rgba(250, 247, 242, 0.06);
+}
+
+.kpi-val {
+  font-family: var(--font-display);
+  font-size: clamp(1.35rem, 2.2vw, 1.85rem);
+  font-weight: 800;
+  color: var(--amarillo);
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi-lbl {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--crema);
+  margin-top: 6px;
+  opacity: 0.94;
+}
+
+/* =====================================================================
+   6. SECTION 3: PRIORIDAD (Gráfico 1 — Código Danae D3)
+   ===================================================================== */
+.chart-card-editorial {
+  padding: 28px 26px 24px;
+  border: 1px solid var(--hairline);
+  background-color: var(--crema);
+}
+
+@media (max-width: 640px) {
+  .chart-card-editorial {
+    padding: 20px 14px 18px;
+  }
+}
+
+.head {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.leaf {
+  flex: none;
+  width: 46px;
+  height: 46px;
+  background: var(--amarillo);
+  border: 1.5px solid var(--rojo);
+  border-radius: 0 50% 0 50%;
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  font-size: 22px;
+  color: var(--rojo);
+  font-family: var(--font-chart-coin);
+}
+
+.chart-h1 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(20px, 3vw, 28px);
+  line-height: 1.15;
+  color: var(--olive);
+  font-weight: 800;
+}
+
+.chart-sub {
+  margin: 4px 0 0;
+  font-size: 14px;
+  color: var(--rojo);
+  opacity: 0.88;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 22px 0 8px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  padding: 6px 14px 6px 8px;
+  border: 1.5px solid var(--rojo);
+  border-radius: 0 16px 0 16px;
+  background: transparent;
+  color: var(--rojo);
+  font: 600 12px var(--font-chart-coin);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.2s, background-color 0.2s;
+}
+
+.chip:hover {
+  background: rgba(96, 44, 44, 0.07);
+}
+
+.chip.off {
+  opacity: 0.38;
+}
+
+.chip svg {
+  display: block;
+}
+
+#chart {
+  position: relative;
+  width: 100%;
+}
+
+svg.main {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.coin {
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.axis text {
+  fill: var(--rojo);
+  font: 600 11px var(--font-chart-coin);
+}
+
+.axis .domain,
+.axis .tick line {
+  stroke: var(--rojo);
+}
+
+.grid line {
+  stroke: rgba(96, 44, 44, 0.12);
+}
+
+.grid .domain {
+  display: none;
+}
+
+.atitle {
+  fill: var(--rojo);
+  font: 600 12px var(--font-chart-coin);
+}
+
+.who {
+  fill: var(--olive);
+  font: 800 11px var(--font-chart-coin);
+}
+
+#tip {
+  position: absolute;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.12s;
+  background: var(--rojo);
+  color: var(--crema);
+  border: 1px solid var(--olive);
+  border-radius: 8px;
+  padding: 9px 12px;
+  font-size: 12px;
+  line-height: 1.5;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+  min-width: 180px;
+  z-index: 15;
+}
+
+#tip b {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 3px;
+}
+
+#tip span {
+  color: var(--amarillo);
+  font-weight: 600;
+}
+
+.note {
+  margin: 14px 0 0;
+  font-size: 12.5px;
+  opacity: 0.8;
+  line-height: 1.55;
+}
+
+/* =====================================================================
+   7. SECTION 4: CALIDAD (Gráfico 2 — Código Danitza Vega-Lite)
+   ===================================================================== */
+.chart-wrapper {
+  background-color: var(--crema);
+  padding: 28px 26px 22px;
+  border: 1px solid var(--hairline);
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .chart-wrapper {
+    padding: 20px 14px 18px;
+  }
+}
+
+.chart-title {
+  margin: 0 0 8px 0;
+  font-family: var(--font-display);
+  font-size: clamp(20px, 2.8vw, 26px);
+  font-weight: 800;
+  color: var(--rojo);
+  line-height: 1.25;
+}
+
+.chart-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.chart-subtitle {
+  margin: 0;
+  font-size: 13px;
+  color: var(--rojo);
+  font-weight: 500;
+}
+
+.legend-leaf-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--amarillo);
+  color: var(--rojo);
+  border: 1px solid rgba(96, 44, 44, 0.25);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 0 14px 0 14px;
+  white-space: nowrap;
+}
+
+.calidad-scale-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-bottom: 14px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--rojo);
+}
+
+.calidad-scale-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.calidad-swatch {
+  width: 11px;
+  height: 11px;
+  border-radius: 0 5px 0 5px;
+  display: inline-block;
+}
+
+.vis-scroll-box {
+  width: 100%;
+  overflow-x: auto;
+}
+
+#vis.vega-embed,
+#visAreasVerdes.vega-embed {
+  width: 100%;
+  display: block;
+}
+
+#vg-tooltip-element.vg-tooltip {
+  font-family: 'Montserrat', sans-serif !important;
+  background-color: #FAF7F2 !important;
+  color: #602C2C !important;
+  border: 1.5px solid #4F6815 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(96, 44, 44, 0.12) !important;
+}
+
+/* =====================================================================
+   8. SECTION 5: COMPARACIÓN ENTRE COMUNAS (Cierre de historia)
+   ===================================================================== */
+.compare-controls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 720px) {
+  .compare-controls {
+    grid-template-columns: 1fr;
+  }
+}
+
+.compare-panel {
+  border: 1.5px solid var(--rojo);
+  padding: 24px;
+  background-color: var(--crema);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.compare-panel.is-olive {
+  border-color: var(--olive);
+}
+
+.compare-select-label {
+  display: block;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--olive);
+  margin-bottom: 6px;
+}
+
+.compare-select {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1.5px solid var(--rojo);
+  border-radius: 0 14px 0 14px;
+  background-color: var(--amarillo);
+  color: var(--rojo);
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.compare-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.metric-cell {
+  padding: 12px 14px;
+  border: 1px solid var(--hairline-soft);
+  background-color: rgba(246, 231, 166, 0.2);
+}
+
+.metric-label {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--rojo);
+  opacity: 0.85;
+  margin-bottom: 4px;
+}
+
+.metric-value {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--rojo);
+  line-height: 1.2;
+}
+
+.metric-value.olive {
+  color: var(--olive);
+}
+
+.metric-note {
+  font-size: 11.5px;
+  margin-top: 4px;
+  font-weight: 600;
+}
+
+.compare-verdict {
+  background-color: var(--amarillo);
+  border: 1.5px solid var(--olive);
+  border-radius: 0 24px 0 24px;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.compare-verdict-text {
+  flex: 1 1 300px;
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.65;
+  color: var(--rojo);
+}
+
+/* =====================================================================
+   9. FOOTER EDITORIAL
+   ===================================================================== */
+.story-footer {
+  border-top: 2px solid var(--rojo);
+  background-color: var(--crema);
+  padding: 40px 24px 48px;
+}
+
+.story-footer-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer-meta {
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--rojo);
+  max-width: 52ch;
+}
