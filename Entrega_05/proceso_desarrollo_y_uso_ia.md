@@ -18,3 +18,5 @@ Nuestros principales problemas giraron entorno a las visualizaciones, primero a 
 ## Pruebas finales de contenido
 Hasta este momento la página puede ver todas las visualizaciones y los elementos interactivos funcionan, también se logró implementar el manual de identidad visual respetando los colores y tipografías. Sin embargo, la lectura en celulares no está de todo correcta, en parte porque no nos enfocamos en este dispositivo, siempre lo pensamos como una webstory vista desde un computador.
 
+## Identificación de las decisiones que fueron tomadas directamente por los integrantes
+Decidimos todo respecto al foco y la estética del reportaje (incluyendo tipografías, colores, iconos, logo, etc). También respecto a las bases de datos utilizadas para que estuvieran en función de comprobar o refutar nuestra hipótesis. También fue una decisión que las visualizaciones se complementaras y se añadieran en contexto unas con otras para crear una narrativa pensando en los tipos de usuario que establecimos.
